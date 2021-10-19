@@ -18,6 +18,13 @@ NODE
 
 You will find my github and a link to the deployed application below. 
 
+![screenshot1](client/src/assets/ss1.png)
+
+![screenshot2](client/src/assets/ss2.png)
+
+![screenshot3](client/src/assets/ss3.png)
+
+
 
 [github](https://github.com/fausnightm/search-engine)
 [deployed-application](https://whispering-gorge-46289.herokuapp.com/)
